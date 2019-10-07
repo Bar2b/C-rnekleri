@@ -1,1 +1,1 @@
-# C-rnekleri
+# C ornekleri
