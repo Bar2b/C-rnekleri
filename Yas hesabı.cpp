@@ -6,7 +6,7 @@ int main ()
 	printf("Dogum yilinizi giriniz: ");
 	scanf("%d", &dogum);
 	
-	deger = 2018-dogum;
+	deger = 2019-dogum;
 	printf("Yasiniz %d \n",deger);
 	
 	if ( deger>=1 && deger<=5)
